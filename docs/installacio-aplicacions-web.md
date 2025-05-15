@@ -84,6 +84,7 @@ Permetem l'accés des de qualsevol equip a la nostra base de dades. Editem l'arx
 ```console
 vim /etc/mysql/mysql.conf.d/mysqld.cnf
 ```
+![imatge](https://github.com/user-attachments/assets/4e1982cf-7724-4ecb-af5c-d24400ebcb72)
 
 Busquem la línia següent:
 ```console
